@@ -10,6 +10,6 @@
 - [ ] :books: [计算机程序的构造和解释]()
 - [ ] 翻译:books:[How To be A Programmer](https://github.com/braydie/HowToBeAProgrammer)
 - [ ] [拓词](http://www.towords.com/)2000
-- [ ] [Leetcode](https://leetcode.com/)300题
+- [ ] [Leetcode](https://leetcode.com/)300
 - [ ] [Make a Computer Operating System](https://github.com/SamyPesse/How-to-Make-a-Computer-Operating-System)
 - [ ] 西藏游
