@@ -12,4 +12,5 @@
 - [ ] [拓词](http://www.towords.com/)2000
 - [ ] [Leetcode](https://leetcode.com/)300
 - [ ] [Make a Computer Operating System](https://github.com/SamyPesse/How-to-Make-a-Computer-Operating-System)
+- [ ] 学习C
 - [ ] 西藏游
