@@ -18,3 +18,4 @@
 - [ ] [Make a Computer Operating System](https://github.com/SamyPesse/How-to-Make-a-Computer-Operating-System)
 - [ ] 学习C
 - [ ] 西藏游
+- [ ] 翻译[linux内核揭秘](https://github.com/MintCN/linux-insides-zh)一章节
