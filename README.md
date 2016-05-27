@@ -16,6 +16,10 @@
 ## 五月
 - [ ] :books: [重构 改善既有代码的设计]()
 
+## 六月
+- [ ] [Leetcode](https://leetcode.com/)15
+- [ ] :books: [计算机程序的构造和解释]()
+
 ## Wish List
 - [ ] :books: [编程珠玑]()
 - [ ] :books: [计算机程序设计艺术]()
