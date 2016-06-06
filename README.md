@@ -14,21 +14,24 @@
 - [ ] [拓词](http://www.towords.com/)100
 
 ## 五月
-- [ ] :books: [重构 改善既有代码的设计]()
+- [x] :books: [重构 改善既有代码的设计]()
 
 ## 六月
 - [ ] [Leetcode](https://leetcode.com/)15
 - [ ] :books: [计算机程序的构造和解释]()
+- [ ] :books: [Work Rules]()
+- [ ] :books: [精进]()
 
 ## Wish List
 - [ ] :books: [编程珠玑]()
 - [ ] :books: [计算机程序设计艺术]()
 - [ ] :books: [梦断代码]()
-- [ ] :books: [计算机程序的构造和解释]()
 - [ ] RESTful Services + React做个项目
 - [ ] [拓词](http://www.towords.com/)2000
 - [ ] [Leetcode](https://leetcode.com/)300
 - [ ] [Make a Computer Operating System](https://github.com/SamyPesse/How-to-Make-a-Computer-Operating-System)
 - [ ] 学习C
 - [ ] 西藏游
-- [ ] 翻译[linux内核揭秘](https://github.com/MintCN/linux-insides-zh)一章节
+- [ ] [ICPC](http://www.stanford.edu/class/cs97si/)
+- [ ] [Hacking](https://www.hacksplaining.com)
+- [ ] [Networking](http://beej.us/guide/bgnet/output/html/multipage/index.html)
