@@ -18,14 +18,17 @@
 
 ## 六月
 - [ ] [Leetcode](https://leetcode.com/)15
-- [ ] :books: [计算机程序的构造和解释]()
-- [ ] :books: [Work Rules]()
-- [ ] :books: [精进]()
+- [x] :books: [精进]()
+
+## 十月
+- [x] :books: [Pro Git](https://git-scm.com/book/zh/v2)
 
 ## Wish List
 - [ ] :books: [编程珠玑]()
 - [ ] :books: [计算机程序设计艺术]()
+- [ ] :books: [计算机程序的构造和解释]()
 - [ ] :books: [梦断代码]()
+- [ ] :books: [Work Rules]()
 - [ ] RESTful Services + React做个项目
 - [ ] [拓词](http://www.towords.com/)2000
 - [ ] [Leetcode](https://leetcode.com/)300
